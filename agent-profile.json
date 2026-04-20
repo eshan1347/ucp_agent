@@ -1,0 +1,18 @@
+{
+  "ucp": {
+    "version": "2026-04-08"
+  },
+  "agent": {
+    "name": "My Shopping Agent",
+    "description": "Personal shopping agent for product discovery",
+    "contact": "eshanmehendale13@email.com"
+  },
+  "capabilities": [
+    "dev.ucp.shopping.catalog.search",
+    "dev.ucp.shopping.catalog.lookup",
+    "dev.ucp.shopping.checkout"
+  ],
+  "payment": {
+    "instruments": []
+  }
+}
